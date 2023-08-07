@@ -1,4 +1,4 @@
-<h1> Hi there I'm Tiara 🚀🎧✌</h1>
+<h1> Hey What's Up I'm Tiara 🚀🎧✌</h1>
 
 - 🔭 I’m currently working on my protfolio website
 - 🌱 I’m currently learning django and sass
