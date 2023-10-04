@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning django and CCS Tailwind
-- 💬 Ask me about music and coding
+- 💬 Ask me about music 
 - ⚡ Fun fact: love music and video games
 
 <h3 align="left">Connect with me:</h3>
