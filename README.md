@@ -1,7 +1,7 @@
 <h1> Hey What's Up I'm Tiara 🚀🎧✌</h1>
 
 - 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning React Native & CSS Tailwind
+- 🌱 I’m currently learning React Native and CSS Tailwind
 - 💬 Ask me about music 
 - ⚡ Fun fact: love music and video games
 
