@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning React Native and CSS Tailwind
 - 💬 Ask me about music 
-- ⚡ Fun fact: love music and video games
+- ⚡ Fun fact: love music & video games
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
