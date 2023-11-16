@@ -1,4 +1,6 @@
 <h1> Hey What's Up I'm Tiara 🚀🎧✌</h1>
+<p>
+I am a passionate full stack developer with a year of hands-on experience, driven by an unwavering commitment to excellence. I thrive on the challenges of coding, consistently surpassing project expectations and deadlines through my dedicated work ethic. Beyond the screen, my love for music fuels my creativity, infusing innovative and harmonious solutions into my projects. As a hardworking individual, I take pride in bringing people's ideas to life, collaborating seamlessly with diverse teams to transform visions into tangible results. Elevate your team with someone who not only codes with expertise but also brings a unique blend of passion, creativity, and dedication to every project—I'm ready to make a meaningful impact.</p>
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning React Native and CSS Tailwind
