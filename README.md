@@ -5,7 +5,7 @@ I am a passionate full stack developer with over an year of hands-on experience,
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning React Native, CSS Tailwind & API
 - 💬 Ask me about music 
-- ⚡ Fun fact: love music and video games
+- ⚡ Fun fact: love music & video games
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
