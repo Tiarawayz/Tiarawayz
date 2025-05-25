@@ -1,4 +1,4 @@
-<h1> Hey, My name Tiara 🚀🎧</h1>
+<h1> Hey, I'm Tiara 🚀🎧</h1>
 <p>Motivated and adaptable IT professional with a background in software engineering and full-stack development, now transitioning into cybersecurity. I hold CompTIA Security+, Network+, and CySA+ certifications and am actively seeking my first role in a Security Operations Center (SOC) as a Cybersecurity Analyst or in IT Security Operations Support. My technical foundation includes proficiency in JavaScript and Python, experience building responsive web applications, and managing databases and APIs. I bring strong analytical thinking, communication, and problem-solving skills, along with a commitment to continuous learning and a passion for protecting digital assets. I’m ready to contribute to a team focused on monitoring, detecting, and responding to security threats in a fast-paced, security-driven environment.
 </p>
 
