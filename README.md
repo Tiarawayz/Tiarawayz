@@ -6,7 +6,7 @@ My technical toolkit includes JavaScript, Python, responsive web development, an
 
 - 🔭 I’m currently working on hands-on labs and threat detection scenarios through platforms like TryHackMe and RangeForce to build practical SOC and incident response skills. At the same time, I’m actively applying for entry-level roles in cybersecurity while refining my incident response playbooks and strengthening my detection and monitoring capabilities. 
 - 🌱 I’m currently learning advanced cybersecurity concepts and tools.
-- 💬 Ask me about music or tech—I’m always down to talk.
+- 💬 Ask me about music or tech I’m always down to talk.
 - ⚡ Fun fact: I’m a huge fan of music and video games.
 
 <h3 align="left">Connect with me:</h3>
